@@ -35,7 +35,7 @@ export default function Footer() {
                     <h3 className="text-blue-200 cursor-pointer hover:scale-110 hover:text-white">{<InstagramIcon/>} Instagram</h3>
                 </div>
                 <div className="flex-col justify-around align-center mr-32 mt-4">
-                    <h1 className="text-white text-lg font-bold mb-2">Sign up for our newsletter</h1>
+                    <h1 className="text-white text-lg font-bold mb-2.5">Sign up for our newsletter</h1>
                     <input type="text" placeholder="E-mail" className="bg-blue-900 border-b text-white pl-1"></input>
                 </div>
             </div>
